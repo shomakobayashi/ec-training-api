@@ -1,2 +1,4 @@
-package com.ec.ectrainingapi;public class form {
+package com.ec.ectrainingapi;
+
+public class form {
 }
